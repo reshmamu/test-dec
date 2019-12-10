@@ -1,0 +1,761 @@
+    1  ls
+    2  ./pycharm.sh 
+    3  ./idea.sh \
+    4  ./idea.sh 
+    5  sudo apt-get install curl
+    6  sudo apt install curl
+    7  gedit ~/.bashrc
+    8  source  ~/.bashrc
+    9  java
+   10  sudo dpkg -i code_1.35.1-1560350270_amd64.deb 
+   11  sudo apt install
+   12  sudo apt update
+   13  sudo apt install curl
+   14  curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+   15  sudo apt-get install nodejs
+   16  node -v
+   17  tar -xvf *.gz
+   18  tar -xvf hadoop
+   19  tar -xvf hadoop*
+   20  ls
+   21  gzip -d *.gz
+   22  tar -xf *.tar
+   23  tar -xf hadoop*
+   24  tar -xf hadoop*1
+   25  tar -xf hbase-1.0.0-cdh5.4.1.tar 
+   26  tar -xf hive-1.1.0-cdh5.4.1.tar 
+   27  tar -xf sqoop-1.4.5-cdh5.4.1.tar 
+   28  tar -xf db-derby-10.13.1.1-bin.tar 
+   29  hive
+   30  hbase shell
+   31  sudo dpkg -i virtualbox-6.0_6.0.10-132072~Ubuntu~bionic_amd64.deb 
+   32  virtualbox
+   33  virtualbox
+   34  sudo /sbin/vboxconfig
+   35  virtualbox
+   36  wget -O ~/vmware.bin https://www.vmware.com/go/getWorkstation-linux
+   37  ls
+   38  ls -al
+   39  ./vi*deb
+   40  sudo dpkg  -i ./vi*deb
+   41  wget -O ~/vmware.bin https://www.vmware.com/go/getWorkstation-linux
+   42  cd ..
+   43  wget -O ~/vmware.bin https://www.vmware.com/go/getWorkstation-linux
+   44  ls
+   45  ls *.deb
+   46  wget https://www.vmware.com/go/getplayer-linux
+   47  sudo ./getplayer-linux
+   48  chmod +x getplayer-linux
+   49  sudo ./getplayer-linux
+   50  wget https://www.vmware.com/go/getplayer-linux
+   51  ls g*
+   52  ./getplayer-linux 
+   53  cd /
+   54  sudo apt update
+   55  ca var
+   56  cd /var/lib/
+   57  ls
+   58  cd dkpg
+   59  ls d*
+   60  cd dkpg
+   61  cd dpkg
+   62  ls
+   63  sudo rm lock 
+   64  cd 
+   65  cd /var/cache/apt/archives/
+   66  rm lock 
+   67  sudo rm lock 
+   68  sudo '/sbin/vboxconfig'
+   69  su root
+   70  sudo apt-get install build-essential module-assistant 
+   71  df
+   72  sudo apt update
+   73  sudo rm /var/lib/apt/lists/lock 
+   74  sudo apt update
+   75  sudo apt install virtualbox-6.0
+   76  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc 
+   77  wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+   78  sudo add-apt-repository "deb http://download.virtualbox.org/virtualbox/debian bionic contrib"
+   79  virtualbox
+   80  sudo apt install virtualbox-6.0
+   81  sudo apt install virtualbox
+   82  virtualbox
+   83  sudo apt install virtualbox-qt
+   84  ls
+   85  ./pycharm.sh
+   86  mysql
+   87  Mysql
+   88  mysql
+   89  sudo apt-get inastall mysql-server
+   90  sudo apt-get install mysql-server
+   91  mkdir vishnu
+   92  gedit aaa.txt
+   93  git status
+   94  sudo apt install git
+   95  sudo apt-get install git-core
+   96  sudo apt install git
+   97  sudo apt-get update
+   98  sudo apt-get install git-core
+   99  sudo dpkg --configure -a
+  100  sudo apt-get install git-core
+  101  ls
+  102  cd Desktop
+  103  mkdir project
+  104  ls
+  105  cd home
+  106  cd
+  107  pwd
+  108  ls
+  109  usr
+  110  /usr
+  111  touch file .txt
+  112  rm file.txt
+  113  rm file .txt
+  114  touch file.txt
+  115  cp file.txt second.txt
+  116  ls
+  117  mkdir f1
+  118  cp file.txt second.txt f1
+  119  f1
+  120  cd f1
+  121  ls
+  122  cd..
+  123  cd
+  124  cp f1 f2
+  125  cd..
+  126  rmdir f1
+  127  rm -r f1
+  128  ls
+  129  mv file.txt  f.txt
+  130  ls
+  131  mv f2 f3
+  132  ls
+  133  cd vishnu
+  134  ls
+  135  ls
+  136  pushd
+  137  mkdir f1
+  138  cd f1hfjh
+  139  ls
+  140  pushd
+  141  cd usr/bin
+  142  pushd
+  143  pushd.
+  144  pushd .
+  145  cd /proc
+  146  popd
+  147  kdslk
+  148  kd]
+  149  skjs
+  150  ]sk]\]
+  151  jgkdsj
+  152  sjkjs
+  153  jskj
+  154  cd
+  155  popd
+  156  mv 1st 2nd
+  157  mkdir 1st
+  158  ls
+  159  cd 1st
+  160  file.txt
+  161  cd
+  162  cd test-python
+  163  cd 1st
+  164  echo 'hellio'
+  165  echo 'hellio'>f1.txt
+  166  ls
+  167  echo 'hellio'>f1.txt
+  168  cat f1.txt
+  169  echo 'raj'>f1.txt
+  170  echo 'rauj0'>>f1.txt
+  171  cat f1.txt
+  172  echo 'raju'>f1.txt
+  173  cat f1.txt
+  174  echo 'raju'>>f1.txt
+  175  echo 'rajesh'>f1.txt
+  176  cat f1.txt
+  177  echo 'rajesh'>>f1.txt
+  178  cat f1.txt
+  179  sudo apt install vim
+  180  vim
+  181  vi file.txt
+  182  file.txt
+  183  vi file.txt
+  184  file.txt
+  185  gcc file.txt
+  186  vi file.txt
+  187  vi file1.txt
+  188  vi file2.txt
+  189  ./pycharm.sh
+  190  pip install django
+  191  sudo apt install python pip
+  192  pip install django
+  193  python-pip install django
+  194  pip install django
+  195  pip3 install django
+  196  sudo apt install python3-pip
+  197  python3
+  198  pip3
+  199  sudo apt install python3-pip
+  200  sudo apt-get install python3-distutils
+  201  sudo apt-get install python3
+  202  ./pycharm.sh 
+  203  python
+  204  python3
+  205  pycharm
+  206  python
+  207  python3
+  208  python
+  209  brew install node
+  210  sudo apt install linuxbrew-wrapper
+  211  sudo apt-get install linuxbrew-wrapper
+  212  clear
+  213  brew install node
+  214  sudo apt install linuxbrew-wrapper
+  215  cd..
+  216  cd ..
+  217  brew install mode
+  218  sudo apt install linuxbrew-wrapper
+  219  brew install node
+  220  sudo apt install linuxbrew-wrapper
+  221  sudo apt-get install linuxbrew-wrapper
+  222  sudo apt-get update
+  223  sudo dpkg --remove --force-all hl1440lpr
+  224  sudo rm -i /var/lib/dpkg/info/hl1440lpr.*
+  225  sudo dpkg --remove --force-remove-reinstreq hl1440lpr
+  226  sudo apt-get update
+  227  cd
+  228  cd --
+  229  cd--
+  230  brew install node
+  231  sudo apt install linuxbrew-wrapper
+  232  clear
+  233  sudo apt install curl
+  234  cd js
+  235  node test1.js
+  236  cd ..
+  237  sudo npm install live-server -g
+  238  live-server
+  239  sudo apt-get install
+  240  sudo apt-get install curl
+  241  dpkg --remove --force-remove-reinstreq   broken---stuff
+  242  sudo dpkg --remove --force-remove-reinstreq   broken---stuff
+  243  sudo dpkg --configure -a
+  244  sudo dpkg --clear-avail && sudo apt-get update
+  245  sudo apt-get update && sudo apt-get dist-upgrade && sudo apt-get autoremove
+  246  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+  247  sudo apt-get update
+  248  sudo apt-get install curl
+  249  curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -
+  250  sudo apt-get install -y nodejs
+  251  node -v
+  252  npm -v
+  253  mkdir hello
+  254  cd
+  255  cd ammu
+  256  cd
+  257  cd ammu
+  258  pushd .
+  259  cd/usr/bin
+  260  popd
+  261  ls
+  262  chmod +u x
+  263  chmod u+x 1.txt
+  264  ls -al
+  265  chmod u-w 1.txt
+  266  cat 1.txt
+  267  cat 2.txt
+  268  touch f1.txt
+  269  ls -al
+  270  chmod 100 f1.txt
+  271  ls -al
+  272  chmod 111 f1.txt
+  273  ls -al
+  274  vim ff.txt
+  275  cd appu
+  276  vim ff.txt
+  277  sudo apt install  vim
+  278  vim ff.txt
+  279  cd /
+  280  pwd
+  281  ls
+  282  cd home/
+  283  ls
+  284  cd ..
+  285  cd usr
+  286  ls
+  287  cd sbin
+  288  ls
+  289  cs bin
+  290  ls
+  291  cat ports.conf
+  292  cd 
+  293  cd apache2
+  294  cd apache2/
+  295  cd ..
+  296  cd apache2/
+  297  cd mnt
+  298  ls
+  299  cd ..
+  300  cd mnt
+  301  ls
+  302  cd /
+  303  cd opt
+  304  ls
+  305  cd ..
+  306  cd var
+  307  ls
+  308  cd ..
+  309  cd proc/
+  310  ls
+  311  cat meminfo
+  312  cat version
+  313  cat locks
+  314  cat cpuinfo
+  315  lscpu
+  316  cd
+  317  pwd
+  318  cd test
+  319  mkdir hai
+  320  ls
+  321  mkdir hello
+  322  ls
+  323  cd reshma
+  324  cd ..
+  325  cd reshma
+  326  cd ..
+  327  cd
+  328  cd ..
+  329  cd
+  330  rmdir hello
+  331  ls
+  332  cd .
+  333  cd ..
+  334  cd ../../
+  335  vim reshma
+  336  ls
+  337  cd ..
+  338  cd
+  339  cd ..
+  340  vim reshma
+  341  ls
+  342  touch file.txt
+  343  touch f.txt
+  344  cd ..
+  345  touch f.txt
+  346  cd hai
+  347  mkdir haai
+  348  cd /
+  349  cd ..
+  350  cd
+  351  cd ../
+  352  mkdir hey
+  353  ls
+  354  cd
+  355  mkdir hey
+  356  touch f.txt
+  357  ls hey
+  358  ls 
+  359  cd hey
+  360  ls
+  361  touch a.txt
+  362  ls
+  363  touch f.txt
+  364  ls
+  365  rm f.txt
+  366  ls
+  367  touch p.txt
+  368  ls
+  369  cp a.txt p.txt
+  370  ls
+  371  echo content p.txt
+  372  echo content> p.txt
+  373  use>>morning
+  374  ls
+  375  i
+  376  mv *.txt fold/
+  377  ls
+  378  rmdir hey
+  379  cd 
+  380  rmdir hey
+  381  cd ..
+  382  rmdir hey
+  383  cd hey
+  384  cd /
+  385  cd hey
+  386  cd 
+  387  cd ..
+  388  cd hey
+  389  cd hey /
+  390  cd hey/
+  391  cd hai
+  392  cd..
+  393  mkdir ammu
+  394  cd mkdir ammu
+  395  cd
+  396  mkdir ammu
+  397  cd ammu
+  398  mkdir appu
+  399  cd appu
+  400  vim hello
+  401  vim hello.txt
+  402  ls
+  403  cd reshma/
+  404  cd
+  405  cd reshma
+  406  cd reshma/
+  407  cd reshma /
+  408  cd reshma
+  409  cd
+  410  cd ..
+  411  cd reshma
+  412  cd linux
+  413  cd linux/
+  414  popd
+  415  cd hello
+  416  cd ammu
+  417  cd ammu/
+  418  cd ..
+  419  cd ammui
+  420  cd ammu
+  421  cd ../
+  422  cd..
+  423  cd ..
+  424  cd 
+  425  cd ..
+  426  cd ammu
+  427  popd
+  428  pushd
+  429  git init
+  430  sudo apt-get install git
+  431  git init
+  432  git config user.name reshmamu
+  433  git config user.email
+  434  git config user.email reshmaunnikrishnanm@gmail.com
+  435  git init
+  436  git remote add origin https://github.com/reshmamu/mean9.git
+  437  git add .
+  438  git commit -m "first commit"
+  439  git push origin master
+  440  cd ..
+  441  cd Desktop
+  442  cd reshma
+  443  sudo useradd reshma
+  444  sudo useradd reshmaa
+  445  cat /etc/passwd
+  446  sudo passwd reshmaa
+  447  su reshmaa
+  448  sudo useradd reshmamu
+  449  cat /etc/passwd
+  450  sudo passwd reshmamu
+  451  su reshmamu
+  452  su reshma
+  453  cd..
+  454  cd ..
+  455  cd ammu
+  456  cd ..
+  457  cd ammu
+  458  cd ..
+  459  cd ../
+  460  cd ammu
+  461  cd home
+  462  cd ammu
+  463  cd angular
+  464  clear
+  465  cd ammu
+  466  cd ..
+  467  cd home
+  468  ls
+  469  cd
+  470  cd ammu
+  471  cd ..
+  472  cd desktop
+  473  clear
+  474  cd desktop
+  475  cd Desktop
+  476  ls
+  477  cd reshma
+  478  vim a.txt
+  479  clear
+  480  cd ..
+  481  cd ammu
+  482  vim a.txt
+  483  cat a.txt
+  484  vim a.txt
+  485  vim ab.txt
+  486  vim a.txt
+  487  vi a.txt
+  488  echo "morning"
+  489  echo "morning" >a.txt
+  490  cat a.txt
+  491  echo "good morning" >a.txt
+  492  cat a.txt
+  493  vi a.txt
+  494  vim a.txt
+  495  sudo useradd reshma
+  496  cat/etc/password
+  497  cat /etc/password
+  498  cat /etc/passwd
+  499  sudo passwd reshma
+  500  su reshma
+  501  cd ammu
+  502  sudo add uder appu
+  503  sudo adduser appu
+  504  cd ..
+  505  cd home
+  506  cd ..
+  507  cd appu
+  508  ls -al
+  509  cd
+  510  su appu
+  511  cd
+  512  cd ammu
+  513  vi a.txt
+  514  ls -al
+  515  sudo groupadd group201
+  516  sudo su-
+  517  cd ..
+  518  sudo su-
+  519  sudo su -
+  520  cd reshmaa
+  521  su reshmaa
+  522  cd ..
+  523  cd
+  524  su -
+  525  sudo su -
+  526  cd ..
+  527  su appu
+  528  cd ammu
+  529  cd ..
+  530  cd etc
+  531  cd ammu
+  532  cd etc
+  533  cd /
+  534  cd etc
+  535  sudo gedit sudoers
+  536  cd ..
+  537  cd .
+  538  cd ..
+  539  cd 
+  540  cd ammu
+  541  grep -i "you" a.txt
+  542  grep -i "go" a.txt
+  543  grep -i "go" *.*
+  544  grep -c "go" a.txt
+  545  grep -ci "go" *.*
+  546  grep -i "go" *.*
+  547  grep -c "go" *.*
+  548  grep -c "go" ./test-dec/ -R
+  549  grep -c "go" ./test/ -R
+  550  grep -c "go" ./a/ -R
+  551  grep -c "go" ./ammu/ -R
+  552  cd ..
+  553  grep -c "go" ./ammu/ -R
+  554  cd ammu
+  555  grep -w "r" *.* -R
+  556  grep -w "mor" *.* -R
+  557  grep -w "mor" -R
+  558  grep -w "mor" *.* -R
+  559  cd
+  560  grep -w "mor" *.* -R
+  561  cd ammu
+  562  cd ..
+  563  grep -w "mor" *.* -R
+  564  cd ammu
+  565  grep -w "mor" *.* -R
+  566  grep -n "mor" *.* -R
+  567  grep -w "mor" *.* -R
+  568  grep -o "mor" *.* -R
+  569  grep -l "mor" *.* -R
+  570  grep -l "you" *.* -R
+  571  grep -l "hai" *.* -R
+  572  grep -l "you" *.* -R
+  573  cd appu
+  574  grep -l "you" *.* -R
+  575  grep -l "hai" *.* -R
+  576  cd ..
+  577  grep -l "hai" *.* -R
+  578  find -type f -name ab.txt
+  579  ls
+  580  find -type d -name ab.txt
+  581  find -type d -name fold
+  582  find -type d -name appu
+  583  find test -type d -name a.txt
+  584  find ammu -type d -name a.txt
+  585  cd ..
+  586  find ammu -type d -name a.txt
+  587  find ammu -type f -name a.txt
+  588  find /usr -typef -name ls
+  589  find /usr -type f -name ls
+  590  find /usr -type d -name lib
+  591  ps -el | grep mysql
+  592  ps -el 
+  593  awk '/god' a.txt
+  594  awk '/god ' a.txt
+  595  cd ammu
+  596  awk '/god ' a.txt
+  597  awk '/god/ ' a.txt
+  598  awk '/good/ ' a.txt
+  599  awk '{print $1,$3'} a.txt
+  600  awk '{print $1,$3'} c.txt
+  601  awk -f p.awk n.txt
+  602  vi p.awk
+  603  zip output.zip ab.txt
+  604  zip output.zip ab.txt c.txt
+  605  mkdir out
+  606  mv output.zip out
+  607  cd out
+  608  ls
+  609  unzip output.zip
+  610  ls
+  611  cat ab.txt
+  612  cd ..
+  613  ls
+  614  zip -u output.zip d.txt
+  615  zip -u output.zip ab.txt
+  616  vi f1.txt
+  617  vi c.txt
+  618  zip -u output.zip c.txt
+  619  cd appu
+  620  ls
+  621  cd ..
+  622  zip output.zip appu
+  623  ls
+  624  zip output.zip *.txt appu -R
+  625  zip output.zip *.txt appu -R -x a.txt
+  626  su appu
+  627  sudo su appu
+  628  sudo su appu
+  629  cd ..
+  630  ifconfig
+  631  cd ammu
+  632  ifconfig
+  633  sudo apt install net-tools
+  634  ifconfig
+  635  ping www.google.com
+  636  ln -s /usr/bin/code cod
+  637  ls cod -al
+  638  ln -s /usr/bin/google-chrome chrome
+  639  ln -al
+  640  ls /usr/bin/google-chrome
+  641  ln -s /usr/bin/google-chrome chrome
+  642  ls /usr/bin/google-chrome
+  643  ln -s /usr/bin/google-chrome chrome
+  644  ln -s /usr/bin/google-chrome google
+  645  ln -al
+  646  ls /usr/bin/google-chrome
+  647  ln -s /usr/bin/google-chrome chrome
+  648  ls chrome -al
+  649  ls
+  650  ls *.*ab.txt
+  651  ls 
+  652  ls -al
+  653  cd ..
+  654  ssh appu@127.0.0.1
+  655  ssh reshmaa@127.0.0.1
+  656  ssh appu@127.0.0.1
+  657  ifconfig
+  658  ssh appu@127.0.0.1
+  659  ls *.ab.txt
+  660  ls *.txt
+  661  cd ammu
+  662  ls *.txt
+  663  ssh appu@127.0.0.1
+  664  sudo apt install openssh server
+  665  cd ..
+  666  ssh appu@127.0.0.1
+  667  cd  ammu
+  668  echo "enter 2 numbwers"
+  669  chmod u+x sum.sh
+  670  ls sum.sh -al
+  671  ./sum.sh
+  672  vi.sum.sh
+  673  vi sum.sh
+  674  ./sum.sh
+  675  vi sum.sh
+  676  chmod u+x bash.sh
+  677  ls bash.sh -al
+  678  ./bash.sh
+  679  vi bash.sh
+  680  ps -el | grep sshd
+  681  sudo kill 12411
+  682  ps -el | grep sshd
+  683  cd ..
+  684  ps -el | grep sshd
+  685  ls
+  686  cd ammu
+  687  ls
+  688  cd
+  689  ls *.gz
+  690  echo $path
+  691  echo $PATH
+  692  SOURCE ~/.bashrc
+  693  cd ,,
+  694  cd ..
+  695  ls.bashrc
+  696  sudo npm install typescript -g
+  697  tsc -v
+  698  expertzlab@expertzlab-Veriton-M200-H81:~$ sudo npm install typescript -g
+  699  [sudo] password for expertzlab: 
+  700  /usr/bin/tsc -> /usr/lib/node_modules/typescript/bin/tsc
+  701  /usr/bin/tsserver -> /usr/lib/node_modules/typescript/bin/tsserver
+  702  + typescript@3.7.3
+  703  added 1 package from 1 contributor in 3.069s
+  704  expertzlab@expertzlab-Veriton-M200-H81:~$ tsc -v
+  705  Version 3.7.3
+  706  expertzlab@expertzlab-Veriton-M200-H81:~$ sudo npm install typescript -g
+  707  [sudo] password for expertzlab: 
+  708  /usr/bin/tsc -> /usr/lib/node_modules/typescript/bin/tsc
+  709  /usr/bin/tsserver -> /usr/lib/node_modules/typescript/bin/tsserver
+  710  + typescript@3.7.3
+  711  added 1 package from 1 contributor in 3.069s
+  712  expertzlab@expertzlab-Veriton-M200-H81:~$ tsc -v
+  713  Version 3.7.3
+  714  cd ammu
+  715  cd git
+  716  mkdir  git
+  717  ls
+  718  ls -al
+  719  cd git
+  720  git version
+  721  git --version
+  722  git init
+  723  ls
+  724  ls -al
+  725  cd .git/
+  726  ls
+  727  cd ..
+  728  touch f1.txt
+  729  git  status
+  730  git add f1.txt
+  731  git status
+  732  git commit -m 'file added'
+  733  cd ..
+  734  cd Desktop
+  735  cd reshma
+  736  mkdir git
+  737  cd git
+  738  git --version
+  739  git init
+  740  ls
+  741  ls -al
+  742  touch f1.txt
+  743  git ststus
+  744  git status
+  745  git add f1.txt
+  746  git status
+  747  git commit -m 'file added'
+  748  git config --global user.email "you@example.com"
+  749  git config --global user.email "reshmaunnikrishnanm.com"
+  750  git config --global user.name "Your Name"
+  751  git config --global user.name "reshmamu"
+  752  git commit -m 'file added'
+  753  touch f2.txt
+  754  git add f2.txt
+  755  git status
+  756  git commit -m 'file added'
+  757  ls
+  758  git log
+  759  git checkout master e02a2c4531fc18227f808dea428bc460e6e73a75
+  760  git checkout master 
+  761  history >10dec2019
